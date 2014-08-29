@@ -28,7 +28,7 @@ searchContents = 1
 # List folders you would like excluded from indexing in this format #
 # (this assumes the pathToAutoKeys variable):                       #
 # ['doesntExist1','doesntExist2/doesntExist3'] < this example blocks#
-# folders doesntExist1 and doesntExist1 but not doesntExist2        #
+# folders doesntExist1 and doesntExist3 but not doesntExist2        #
 #####################################################################
 excludeFolders = []
 #####################################################################
